@@ -1509,7 +1509,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('↼ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs ⇀', callback_data='mods')
         ],[ 
             InlineKeyboardButton('↼ Oᴡɴᴇʀ Iɴғᴏ', callback_data="owner_info"),
-            InlineKeyboardButton('Sᴏᴜʀᴄᴇ Cᴏᴅᴇ ⇀', callback_data='source')
+            InlineKeyboardButton('Deals ⇀', url ="https://t.me/hotflasdealss")
             
         ],[
             InlineKeyboardButton('♙ Hᴏᴍᴇ', callback_data='start'),
@@ -1796,7 +1796,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
-                test="🦁"
+                text="👀"
             )   
             reply_markup = InlineKeyboardMarkup(btn)
             await query.message.edit_text(
