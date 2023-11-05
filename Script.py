@@ -199,7 +199,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/+cDUWoP_OPEgxMjU9>{file_caption}</a>
+<b><a href=https://t.me/+cDUWoP_OPEgxMjU9>{file_rename}</a>
 
 
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Get_movie_in_10_seconds
