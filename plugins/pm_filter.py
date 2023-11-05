@@ -1509,7 +1509,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('↼ Exᴛʀᴀ Fᴇᴀᴛᴜʀᴇs ⇀', callback_data='mods')
         ],[ 
             InlineKeyboardButton('↼ Oᴡɴᴇʀ Iɴғᴏ', callback_data="owner_info"),
-            InlineKeyboardButton('Deals ⇀', url ="https://t.me/hotflasdealss")
+            InlineKeyboardButton('Deals ⇀', url ="https://t.me/hotflashdealss")
             
         ],[
             InlineKeyboardButton('♙ Hᴏᴍᴇ', callback_data='start'),
