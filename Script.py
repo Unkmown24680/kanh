@@ -198,12 +198,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """
-<b><a href=https://t.me/+cDUWoP_OPEgxMjU9>{file_rename}</a>
+    CAPTION = """<b>• ғɪʟᴇ ɴᴀᴍᴇ: {file_name}
 
+• ғɪʟᴇ sɪᴢᴇ : {file_size}
 
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Get_movie_in_10_seconds
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @hotflashdealss</b>""" 
+• I'ᴍ ғʀᴏᴍ <a href="https://t.me/+cDUWoP_OPEgxMjU9">Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> 👻
+• Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ <a href="https://t.me/share/url?url=https://t.me/+cDUWoP_OPEgxMjU9">Sʜᴀʀᴇ Mᴇ</a> 🥱
+• ᴍᴜsᴛ ᴊᴏɪɴ <a href="https://t.me/hotflashdealss">Dᴇᴀʟs</a> 😉</b>"""
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
