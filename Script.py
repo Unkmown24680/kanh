@@ -202,8 +202,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 <b><a href=https://Get_movie_in_10_seconds>{file_caption}</a>
 
 
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Cinema
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Request</b>""" 
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Get_movie_in_10_seconds
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @hotflashdealss</b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
