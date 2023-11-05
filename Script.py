@@ -199,7 +199,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/Unknown_Cinema>{file_caption}</a>
+<b><a href=https://Get_movie_in_10_seconds>{file_caption}</a>
 
 
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Cinema
